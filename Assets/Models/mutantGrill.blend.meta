@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 2224de63334c28b4b980ca006f5f6084
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Belly
+    100004: Chest
+    100006: Claw
+    100008: Cube
+    100010: Head_Top
+    100012: HeadBase
+    100014: HeadMiddle
+    100016: Jaw
+    100018: Left_Arm_Stump
+    100020: Left_Calf
+    100022: Left_Hip
+    100024: Left_Shoulder
+    100026: Left_Thigh
+    100028: //RootNode
+    100030: Neck
+    100032: Right_Calf
+    100034: Right_Hip
+    100036: Right_Shoulder
+    100038: Right_Tentacle_Base
+    100040: Right_Thigh
+    100042: Root
+    100044: Tentacle0
+    100046: Tentacle1
+    100048: Tentacle2
+    100050: Tentacle3
+    100052: Tentacle4
+    100054: Tentacle5
+    100056: Tentacle6
+    100058: Waist
+    400000: Armature
+    400002: Belly
+    400004: Chest
+    400006: Claw
+    400008: Cube
+    400010: Head_Top
+    400012: HeadBase
+    400014: HeadMiddle
+    400016: Jaw
+    400018: Left_Arm_Stump
+    400020: Left_Calf
+    400022: Left_Hip
+    400024: Left_Shoulder
+    400026: Left_Thigh
+    400028: //RootNode
+    400030: Neck
+    400032: Right_Calf
+    400034: Right_Hip
+    400036: Right_Shoulder
+    400038: Right_Tentacle_Base
+    400040: Right_Thigh
+    400042: Root
+    400044: Tentacle0
+    400046: Tentacle1
+    400048: Tentacle2
+    400050: Tentacle3
+    400052: Tentacle4
+    400054: Tentacle5
+    400056: Tentacle6
+    400058: Waist
+    2100000: monsterSkinTiles_002
+    2300000: Cube
+    3300000: Cube
+    4300000: Cube
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
