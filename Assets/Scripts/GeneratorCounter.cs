@@ -10,7 +10,7 @@ public class GeneratorCounter: MonoBehaviour {
 	private void Update () {
 		if(generatorCounter < counterVerify) {
 			Debug.Log("Generator destroyed. Generator Count: " + generatorCounter + ".");
-			counterVerify--;
+			counterVerify = generatorCounter;
 		}
 	}
 }
